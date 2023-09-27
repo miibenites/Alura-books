@@ -41,6 +41,7 @@
 
 .lista-menu__titulos{
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link{
